@@ -49,19 +49,18 @@ body {
 button {
   border-style: none;
   padding: 0.05rem 1rem;
-  color: rgba(19, 158, 151, 0.918);
+  color: rgba(6, 80, 76, 0.918);
   font-family: "Raleway", sans-serif;
   font-size: 0.9rem;
   font-style: bold;
   border-radius: 0.3rem;
   margin-top: 1rem;
+  background-color: white;
 }
 .cookie {
   padding-right: 0.8rem;
+  overflow: visible;
 }
 .text {
   width: 85%;
-}
-svg {
-  overflow: visible;
 }
