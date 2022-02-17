@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+.cookie-container {
+  font-family: "Raleway", sans-serif;
+  background: rgb(180, 255, 59);
+  background: -moz-linear-gradient(
+    233deg,
+    rgba(180, 255, 59, 1) 0%,
+    rgba(155, 227, 251, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    233deg,
+    rgba(180, 255, 59, 1) 0%,
+    rgba(155, 227, 251, 1) 100%
+  );
+  background: linear-gradient(
+    233deg,
+    rgba(180, 255, 59, 1) 0%,
+    rgba(155, 227, 251, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b4ff3b",endColorstr="#9be3fb",GradientType=1);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  width: 23rem;
+  height: 10rem;
+  border-radius: 1.2rem;
+  padding: 1rem;
+  align-items: center;
+  overflow: hidden;
+}
+.cookie-title {
+  font-size: 1.2rem;
+}
+.cookie-subtitle {
+  padding-top: 0.6rem;
+  font-size: 0.9rem;
+}
+button {
+  border-style: none;
+  padding: 0.05rem 1rem;
+  color: rgba(19, 158, 151, 0.918);
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-style: bold;
+  border-radius: 0.3rem;
+  margin-top: 1rem;
+}
+.cookie {
+  padding-right: 0.8rem;
+}
+.text {
+  width: 85%;
+}
+svg {
+  overflow: visible;
+}
