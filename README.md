@@ -1,5 +1,5 @@
 
-# CookieAnimation
+# Cookie Animation
 
 
 <img width="576" alt="Screen Shot 2022-02-17 at 2 05 36 PM" src="https://user-images.githubusercontent.com/92756383/154562415-ab02ae4b-b967-4cfe-b093-2864824518b0.png">
